@@ -1,7 +1,4 @@
-const fabric  = window.fabric;
-
 export const changePenColor = (color, canvas) => {
-    console.log({aq: canvas})
     switch (color) {
         case 'r':
             canvas.freeDrawingBrush.color = '#e84d4d';
@@ -24,3 +21,5 @@ export const changePenColor = (color, canvas) => {
         }
     return canvas;
 }
+
+export const clearCanvas = (canvas) => canvas.clear();

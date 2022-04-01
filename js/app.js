@@ -1,4 +1,4 @@
-import { changePenColor } from './canvasController.js';
+import { changePenColor, clearCanvas } from './canvasController.js';
 const fabric  = window.fabric;
 let canvas = null;
 
@@ -29,7 +29,11 @@ const initCanvas = () => {
 export const addListeners = (can) => {
     window.addEventListener('keydown', (e) => {
         const keyName = e.key;
-        can = changePenColor(keyName, can);
+        if(keyName === 'Escape')  {
+            clearCanvas(can);
+        } else {
+            can = changePenColor(keyName, can);
+        }
     });
 }
 
