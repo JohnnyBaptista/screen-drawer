@@ -1,4 +1,4 @@
-import { changePenColor } from './penController.js';
+import { changePenColor } from './canvasController.js';
 const fabric  = window.fabric;
 let canvas = null;
 
