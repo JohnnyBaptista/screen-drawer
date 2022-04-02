@@ -6,7 +6,7 @@ const initCanvas = () => {
     const fabricCanvas = new fabric.Canvas("mainCanvas", {
         width: window.innerWidth,
         height: window.innerHeight,
-        backgroundColor: "white",
+        backgroundColor: "transparent",
         isDrawingMode: true,
         freeDrawingCursor: 'url(./assets/pink.png) 10 50, auto',
         freeDrawingBrush: new fabric.PencilBrush(this),
@@ -29,7 +29,7 @@ const initCanvas = () => {
 export const addListeners = (can) => {
     window.addEventListener('keydown', (e) => {
         const keyName = e.key;
-        if(keyName === 'Escape')  {
+        if(keyName === 'Escape' || keyName === 'c') {
             clearCanvas(can);
         } else {
             can = changePenColor(keyName, can);
