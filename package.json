@@ -4,6 +4,7 @@
   "description": "",
   "main": "./electron/main.js",
   "scripts": {
+    "buildWin": "npx electron-packager . --icon assets/main.ico --overwrite",
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
