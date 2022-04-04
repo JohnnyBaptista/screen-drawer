@@ -1,4 +1,5 @@
 # Screen Drawing Board
+<div style="text-align:center"><img src="https://media.giphy.com/media/LmpB037yDKhEBNuxBp/giphy.gif" /></div>
 
 ### **Makes your screen drawable**
 As soon as you are running the app, you can use it to draw with our pen marker in three 4 different colors:
@@ -37,8 +38,7 @@ To develop the Desktop app, it was used the [ElectronJS](https://www.electronjs.
 -> To executre the app, you can run the `build` in your terminal. That way, electron will build a new folder with the executable file inside. 
 > At first, this repository will not provide each executable files for each OS or download file.
 
-## **Exemple**
--> Todo
+
 ## Contributing
 Any pull requests are most welcome.
 
