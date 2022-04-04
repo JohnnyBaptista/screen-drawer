@@ -3,14 +3,18 @@
 ### **Makes your screen drawable**
 As soon as you are running the app, you can use it to draw with our pen marker in three 4 different colors:
 
-- Red - _Press R shortcut_ 
-- Blue - _Press B shortcut_ 
-- Green - _Press G shortcut_ 
-- Black - _Press D shortcut_ 
+- Red - _Press **R** key shortcut_ 
+- Blue - _Press **B** key shortcut_ 
+- Green - _Press **G** key shortcut_ 
+- Black - _Press **D** key shortcut_ 
+
+_Other shortcuts:_
+- To minimize the application press **_ESC_**  key
+- To restore the canvas, press **_Alt+F12_** 
+- To exit the application, right click in the tray icon and press exit
 
 The application will cover your whole main screen so you can draw anywhere.
 
-To minimize the application 
 
 #### **How was it developed:**
 Basically, the app is a whole trasparent canvas that you can draw, created using [FabricJS](http://fabricjs.com).
