@@ -2,7 +2,7 @@
 <div style="text-align:center"><img src="https://media.giphy.com/media/LmpB037yDKhEBNuxBp/giphy.gif" /></div>
 
 ### **Makes your screen drawable**
-As soon as you are running the app, you can use it to draw with our pen marker in three 4 different colors:
+As soon as you are running the app, you can use it to draw with our pen marker in four different colors:
 
 - Red - _Press **R** key shortcut_ 
 - Blue - _Press **B** key shortcut_ 
