@@ -14,7 +14,7 @@ _Other shortcuts:_
 - To restore the canvas, press **_Alt+F12_** 
 - To exit the application, right click in the tray icon and press exit
 
-The application will cover your whole main screen so you can draw anywhere.
+The application will cover your whole main screen so you can draw anywhere. Use it to enhance your presentations or online classes!
 
 
 #### **How was it developed:**
@@ -24,9 +24,7 @@ To develop the Desktop app, it was used the [ElectronJS](https://www.electronjs.
 
 ---
 
-# Running
-
-## Development mode
+## **Running the application**
 
 ### **Browser**
 -> You can run the code by accessing the `index.html` or running live-server to develop the application using the browser as view.
@@ -34,7 +32,7 @@ To develop the Desktop app, it was used the [ElectronJS](https://www.electronjs.
 ### **Electron**
 -> Run the application in your terminal by using the `start` script.
 
-## **Execute the application**
+### **Execute the application**
 -> To executre the app, you can run the `build` in your terminal. That way, electron will build a new folder with the executable file inside. 
 > At first, this repository will not provide each executable files for each OS or download file.
 
