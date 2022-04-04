@@ -18,10 +18,9 @@ The application will cover your whole main screen so you can draw anywhere.
 
 #### **How was it developed:**
 Basically, the app is a whole trasparent canvas that you can draw, created using [FabricJS](http://fabricjs.com).
+The main project is just HTML CSS and JavaScript, to control the window and handle the events.
+To develop the Desktop app, it was used the [ElectronJS](https://www.electronjs.org) framework.
 
-The main project is just HTML CSS and Javascript, to control the window and handle the events.
-
-To develop the Desktop app, it was used the ElectronJS framework.
 ---
 
 # Running
