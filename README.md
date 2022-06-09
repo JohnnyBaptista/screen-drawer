@@ -13,6 +13,8 @@ _Other shortcuts:_
 - To minimize the application press **_ESC_**  key
 - To restore the canvas, press **_Alt+F12_** 
 - To exit the application, right click in the tray icon and press exit
+- To _undo_ your last scribble, press **_Ctrl+Z_**
+- To _redo_ your last scribble, press **_Ctrl+Y_**
 
 The application will cover your whole main screen so you can draw anywhere. Use it to enhance your presentations or online classes!
 
