@@ -16,6 +16,10 @@ const changePenColor = (color, canvas) => {
       canvas.freeDrawingBrush.color = "black";
       canvas.freeDrawingCursor = "url(./assets/pink.png) 10 50, auto";
       break;
+    case "y":
+      canvas.freeDrawingBrush.color = "#ded600";
+      canvas.freeDrawingCursor = "url(./assets/yellow.png) 10 50, auto";
+      break;
     default:
       break;
   }
