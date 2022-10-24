@@ -3,7 +3,7 @@ const { globalShortcut } = require('electron');
 const { maximizeWindow } = require(resolve(__dirname, 'windowController.js'));
 
 const registerMaximize = () => {
-    const shortcut = globalShortcut.register('Alt+F12', () => {
+    const shortcut = globalShortcut.register('Alt+D', () => {
         maximizeWindow();
     });
     if(!shortcut) {
