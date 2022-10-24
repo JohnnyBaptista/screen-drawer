@@ -8,13 +8,16 @@ As soon as you are running the app, you can use it to draw with our pen marker i
 - Blue - _Press **B** key shortcut_ 
 - Green - _Press **G** key shortcut_ 
 - Black - _Press **D** key shortcut_ 
+- Pink - _Press **P** key shortcut_ 
+- Yellow - _Press **Y** key shortcut_ 
 
 _Other shortcuts:_
 - To minimize the application press **_ESC_**  key
-- To restore the canvas, press **_Alt+F12_** 
+- To restore the canvas, press **_Alt+D_** 
 - To exit the application, right click in the tray icon and press exit
 - To _undo_ your last scribble, press **_Ctrl+Z_**
 - To _redo_ your last scribble, press **_Ctrl+Y_**
+- To _clear_ all your scribble, press **_C_**
 
 The application will cover your whole main screen so you can draw anywhere. Use it to enhance your presentations or online classes!
 
